@@ -1,3 +1,0 @@
-[submodule "branch-name-change-submod"]
-	path = branch-name-change-submod
-	url = git@github.com:glemieux/branch-name-change-submod.git
